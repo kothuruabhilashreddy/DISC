@@ -1,0 +1,12 @@
+# Ignore Xcode project settings
+*.xcuserstate
+*.xccheckout
+*.xcodeproj/*
+*.xcworkspace
+xcuserdata/
+
+# User-specific files
+*.swp
+.DS_Store
+
+
